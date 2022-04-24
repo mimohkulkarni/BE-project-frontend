@@ -1,0 +1,24 @@
+.jumbotron{
+    background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+}
+
+.foot{
+    background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+}
+
+.string{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+
+#upload{
+    margin:0;
+}
+
+#footer{
+    height:100px;
+    text-align: center;
+}
+
